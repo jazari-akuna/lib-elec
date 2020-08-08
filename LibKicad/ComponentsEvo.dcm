@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NUCLEO-F303K8
+F ST Microelectronics
+$ENDCMP
+#
 $CMP Relay
 D Standex Meder DIP reed relay, SPST, Closing Contact
 K Single Pole Reed Relay SPST
