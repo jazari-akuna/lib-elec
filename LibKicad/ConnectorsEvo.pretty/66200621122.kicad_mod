@@ -1,4 +1,4 @@
-(module 66200621122 (layer F.Cu) (tedit 5FF437C7)
+(module 66200621122 (layer F.Cu) (tedit 5FF798E4)
   (descr "<b>WR-MPC3<br></b>3.00 mm Male Dual Row Vertical Header,6 pins")
   (fp_text reference REF** (at 0 5.08) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.015)))
