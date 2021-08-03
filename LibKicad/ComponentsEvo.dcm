@@ -34,12 +34,6 @@ $CMP NUCLEO-F303K8
 F ST Microelectronics
 $ENDCMP
 #
-$CMP Relay
-D Standex Meder DIP reed relay, SPST, Closing Contact
-K Single Pole Reed Relay SPST
-F https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf
-$ENDCMP
-#
 $CMP Si7997DP
 D Dual NMOS transistor, 6 pin package
 K transistor NMOS N-MOS N-MOSFET
