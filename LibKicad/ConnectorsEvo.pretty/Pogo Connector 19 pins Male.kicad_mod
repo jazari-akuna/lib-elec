@@ -105,4 +105,9 @@
     (thermal_bridge_angle 45) (tstamp 3b125b2f-468a-4d27-800a-c49bf8000902))
   (pad "19" smd rect (at 0 9) (size 2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45) (tstamp 63f4b681-0524-4ddb-8abf-c7362b794da3))
+  (model ":LIBELEC:3D/Connectors/Pogo connector 19 pins male.stp"
+    (offset (xyz -3.55 0 -0.85))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 -90))
+  )
 )
