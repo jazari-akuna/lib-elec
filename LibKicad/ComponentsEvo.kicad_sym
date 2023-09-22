@@ -189,7 +189,7 @@
     (property "Value" "ADNS 9800" (at 0 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "OptoDevice:ADNS-9800" (at -22.86 -13.97 0)
+    (property "Footprint" "ComponentsEvo:ADNS 9800" (at -22.86 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.octopart.com/ADNS-9800-Avago-datasheet-10666463.pdf" (at -20.32 -16.51 0)
