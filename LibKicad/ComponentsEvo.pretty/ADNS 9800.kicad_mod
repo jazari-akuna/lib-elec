@@ -76,8 +76,8 @@
   (pad "15" thru_hole circle (at 13.9 3.73) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 0c9dbfaf-d724-484b-b892-c1d63e0a77d7))
   (pad "16" thru_hole circle (at 13.9 1.95) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ab93667b-ffef-4fdc-aebe-95e97283b290))
   (model "${LIBELEC}/3D/Components/ADNS_9800_Lentille.stp"
-    (opacity 0.6900)    (offset (xyz 14.1 -16.01 4.2))
+    (opacity 0.6900)    (offset (xyz 1.2 -0.33 3.4))
     (scale (xyz 1 1 1))
-    (rotate (xyz 180 0 90))
+    (rotate (xyz 180 0 -90))
   )
 )
