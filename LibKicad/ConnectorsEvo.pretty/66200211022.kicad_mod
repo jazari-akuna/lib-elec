@@ -1,6 +1,7 @@
 (footprint "66200211022" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<b>WR-MPC3<br></b>3.00 mm Male Single Row Angled Header w. Plastic Pegs, 2 Pins")
+  (attr through_hole)
   (fp_text reference "REF**" (at 5.88 -3.975) (layer "F.SilkS")
       (effects (font (size 0.93472 0.93472) (thickness 0.08128)) (justify left bottom))
     (tstamp 21ad9dda-b365-4747-9d95-35ecbcb0f1be)
