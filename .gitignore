@@ -42,6 +42,7 @@ eagle.epf
 *.pro
 *.job
 
+
 # CAM files
 *.$$$
 *.cmp
@@ -110,5 +111,7 @@ bom/
 
 # Gerber export output
 out/
+*.gbr
+*.gbrjob
 
 # End of https://www.toptal.com/developers/gitignore/api/kicad,eagle,altium
