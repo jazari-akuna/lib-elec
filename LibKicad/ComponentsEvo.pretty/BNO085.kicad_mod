@@ -93,4 +93,9 @@
     (solder_mask_margin 0.102) (tstamp 5eeae976-9a95-4c3e-9bdd-102be0d4c62f))
   (pad "28" smd rect (at -1.75 -1.5625 90) (size 0.675 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 01fb4b17-5c20-4f5e-8569-4340f8fee4a4))
+  (model "${LIBELEC}/3D/Components/BNO08x.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
