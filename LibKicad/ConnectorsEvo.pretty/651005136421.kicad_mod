@@ -1,6 +1,7 @@
 (footprint "651005136421" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<b>WR-COM</b><br>Mini USB 2.0 Type B Vertical 5 Contacts , 5 pins")
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -2.6) (layer "F.SilkS")
       (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify bottom))
     (tstamp 7411fc7d-c32b-404f-945e-fcb668b95be1)
