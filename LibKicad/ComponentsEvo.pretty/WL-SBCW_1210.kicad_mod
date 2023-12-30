@@ -1,6 +1,7 @@
 (footprint "WL-SBCW_1210" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<B>WL-SBCW SMT Bi-color Chip LED Waterclear\n</B> <BR><BR>Size 0606, SMT, 4pins\n<BR>3.2x2.7x0.7mm(LXWXH)")
+  (attr smd)
   (fp_text reference "REF**" (at 0 -2.24) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify bottom))
     (tstamp 12c0a445-4ae4-4836-bfbf-67cb657ec142)
