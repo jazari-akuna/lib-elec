@@ -1,6 +1,7 @@
 (footprint "WA-SMSI_9774110360" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<B>WA-SMSI SMT Steel Spacer, M3 Thread Internal\n<BR></B>Thread Internal M3\n<BR>Height = 11mm")
+  (attr through_hole)
   (fp_text reference "REF**" (at 0.0533 -4.4327) (layer "F.SilkS")
       (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify bottom))
     (tstamp b695c02d-1760-4908-9a5c-ecf6b08fb12e)
