@@ -1,6 +1,7 @@
 (footprint "657003140101" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<B>WR-MPC5 THT Single Row Male Header Right Angled\n<br><br></b>THT, 3pins")
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
       (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify bottom))
     (tstamp eaebc7eb-e8c1-40f2-9e9d-e8f98013ae5d)
