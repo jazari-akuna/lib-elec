@@ -154,7 +154,7 @@
     (property "Footprint" "ComponentsEvo:430456085736" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.we-https://www.we-online.com/components/products/datasheet/430456085736.pdf" (at 0 -16.51 0)
+    (property "Datasheet" "https://www.we-online.com/components/products/datasheet/430456085736.pdf" (at 0 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "switch normally-open pushbutton push-button" (at 0 0 0)
