@@ -825,7 +825,7 @@
       )
     )
   )
-  (symbol "WireSolder_Pad" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "WireSolder_Pad" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
     (property "Reference" "W3" (at 0 3.81 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
