@@ -383,6 +383,7 @@
   (pad "1.10" smd rect (at -5.97 5.08) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5be252a-b15c-4502-8301-50c8909b8e67))
   (pad "1.11" smd rect (at -9.27 7.62) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fe3937aa-f489-4bf0-a8bb-c008363051fe))
   (pad "1.12" smd rect (at -5.97 10.16) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0985b781-e79d-4d57-b695-e037b42f0437))
+  (pad "1.13" smd rect (at -9.27 12.7) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d2ec0e15-2884-4805-927a-738d64d093ff))
   (pad "1.14" smd rect (at -5.97 15.24) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2ffa113-386a-435d-8b08-176f89e74cb9))
   (pad "1.15" smd rect (at -9.27 17.78) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2cfa96fa-7b1b-4e49-ba37-4c0824f16995))
   (pad "2.1" smd rect (at 5.97 -17.78) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 86f5b011-73fb-4115-a02c-29eba9b54aa8))
@@ -400,7 +401,6 @@
   (pad "2.13" smd rect (at 5.97 12.7) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0cf9e901-3820-4053-9183-d8c3ce2fcb99))
   (pad "2.14" smd rect (at 9.27 15.24) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ab70b20-bec5-4648-9a27-c2adac225f57))
   (pad "2.15" smd rect (at 5.97 17.78) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f2e33a6-1e5d-457d-a5df-0219d7542d6b))
-  (pad "13" smd rect (at -9.27 12.7) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d2ec0e15-2884-4805-927a-738d64d093ff))
   (pad "NC" smd rect (at -5.97 20.32) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e0fe270f-c5c9-4f44-a627-a3955eb7551d))
   (pad "NC" smd rect (at 9.27 20.32) (size 1.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8b7ee624-545a-4068-8aa1-620856ac26e5))
   (model "${LIBELEC}/3D/Board/Nucleo F303K8/MB1180 - SMD.stp"
