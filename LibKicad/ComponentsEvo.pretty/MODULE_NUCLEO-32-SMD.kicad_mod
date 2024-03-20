@@ -1,6 +1,6 @@
 (footprint "MODULE_NUCLEO-32-SMD" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -6 -26.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ff4ff68f-21a1-4a83-b6c8-e9d7b235b863)
