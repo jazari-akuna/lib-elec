@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "WR-MPC3-3.00mm Male Dual Row Vertical Header,2 pins")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0.14 -5.67) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0.05 -6.31) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 826d7eb8-733f-4f5f-ad9a-d3fd73073999)
   )
@@ -22,6 +22,8 @@
     (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 96fb62eb-2bcc-4a68-b704-c209e6bacbc5))
   (fp_line (start 3.35 -3.38) (end 3.35 3.94)
     (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp b351746c-4930-46e1-9888-b85addfa62a0))
+  (fp_rect (start -1 -5) (end 1 -3.38)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp c86ee749-d084-4fd7-81b3-306a397f8775))
   (fp_circle (center 1.55 1.5) (end 1.65 1.5)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.SilkS") (tstamp 7d7ae74d-c605-4841-a1c1-17602bd49839))
   (fp_poly
