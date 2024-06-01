@@ -3617,7 +3617,7 @@
         (stroke (width 0) (type default))
         (fill (type background))
       )
-      (text "/!\\ VUSB\n" (at 6.35 53.34 0)
+      (text "/!\\ VUSB\n" (at 6.35 54.61 0)
         (effects (font (size 1.27 1.27)))
       )
       (text "F_ : onboard\nSPI Flash\n(W25Q16BV)" (at 0 46.99 0)
