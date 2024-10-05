@@ -2927,7 +2927,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
       (pin output line (at -15.24 -6.35 0) (length 2.54)
-        (name "MOTION" (effects (font (size 1.27 1.27))))
+        (name "~{MOTION}" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at 0 -13.97 90) (length 2.54)
