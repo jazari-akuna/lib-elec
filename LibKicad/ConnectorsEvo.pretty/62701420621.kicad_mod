@@ -1,6 +1,7 @@
 (footprint "62701420621" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<b>WR-BHD 1.27 mm Male SMT Box Header\n</b><br><br>Pitch: 1.27mm, 14pins, SMT")
+  (attr smd)
   (fp_text reference "REF**" (at 0 -4) (layer "F.SilkS")
       (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify bottom))
     (tstamp d446f342-b88b-4982-9e70-57f250ce0672)
