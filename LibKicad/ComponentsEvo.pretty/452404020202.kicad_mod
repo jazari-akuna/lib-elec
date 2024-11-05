@@ -1,6 +1,7 @@
 (footprint "452404020202" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "<b>WS-SLTV</b><br>THT Mini Slide Switch, Same Side Connection 9.0x3.5 mm")
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -3.34) (layer "F.SilkS")
       (effects (font (size 0.747776 0.747776) (thickness 0.065024)) (justify bottom))
     (tstamp ae18810a-9090-4ef4-9838-f4a64c5075b5)
