@@ -50,8 +50,8 @@
   (fp_line (start 2.7 6.4) (end 1.7 6.4)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6b1b115e-01fa-4348-af13-f11eddf40165))
   (pad "" np_thru_hole circle (at 0 -0.2) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 335d1e3d-a4e5-4619-9955-88a02a754d13))
-  (pad "1" thru_hole oval (at 0 -7.5) (size 2.7 4.2) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 67c58c77-bee1-4c7c-9559-4262a2a999ea))
-  (pad "2" thru_hole oval (at 0 -13) (size 2.7 4.2) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 1bdbf6aa-9bff-497e-809c-df2fc9110439))
+  (pad "1" thru_hole oval (at 0 -7.5) (size 2.5 3.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 67c58c77-bee1-4c7c-9559-4262a2a999ea))
+  (pad "2" thru_hole oval (at 0 -13) (size 2.5 3.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 1bdbf6aa-9bff-497e-809c-df2fc9110439))
   (model "${LIBELEC}/3D/Connectors/649002227222 (rev1).stp"
     (offset (xyz 0 0 5))
     (scale (xyz 1 1 1))
