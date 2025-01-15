@@ -1,4 +1,4 @@
-(footprint "CAN ID lablel" (version 20221018) (generator pcbnew)
+(footprint "CAN ID Label" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Generated with KiBuzzard")
   (tags "CAN ID Lable")
