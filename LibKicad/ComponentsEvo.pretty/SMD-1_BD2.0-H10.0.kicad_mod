@@ -1,7 +1,7 @@
 (footprint "SMD-1_BD2.0-H10.0"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -4 0)
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "530aba30-c9ed-4774-b0e5-b80cf8897dda")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -69,7 +57,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "6f948721-bab6-4c75-84a0-4252aaa2ced9")
 	)
@@ -80,7 +68,7 @@
 			(width 1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "c377966f-d769-45df-b7df-33e3d7dcacc0")
 	)
@@ -91,7 +79,7 @@
 			(width 0.06)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "aad2f98a-d577-4306-9f62-8d7b2a4a186f")
 	)
@@ -109,18 +97,19 @@
 	(pad "1" smd circle
 		(at 0 0)
 		(size 2.5 2.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8c8fd872-1f7c-49ed-96cb-751fc4888285")
 	)
+	(embedded_fonts no)
 	(model "${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step"
 		(offset
 			(xyz 0 -0 -0)
 		)
 		(scale
-			(xyz 1 1 1)
+			(xyz 1 1 0.45)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )
